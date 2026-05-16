@@ -1,0 +1,2 @@
+<div <?php echo e($attributes->merge(['class' => 'card-actions'])); ?>><?php echo e($slot); ?></div>
+<?php /**PATH C:\Users\Andropedia_2025\Desktop\anali\kiyawallet\platform/core/base/resources/views/components/card/actions.blade.php ENDPATH**/ ?>
