@@ -1,2 +1,0 @@
-<p <?php echo e($attributes->merge(['class' => 'card-subtitle'])); ?>><?php echo e($slot); ?></p>
-<?php /**PATH C:\Users\Andropedia_2025\Desktop\anali\kiyawallet\platform/core/base/resources/views/components/card/subtitle.blade.php ENDPATH**/ ?>
